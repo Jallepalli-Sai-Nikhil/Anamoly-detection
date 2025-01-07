@@ -2,7 +2,7 @@
 
 
 # Install required dependencies
-pip install -r requirements.txt
+# pip install -r requirements.txt
 
 # Run the Flask app
-python app.py
+# python app.py
