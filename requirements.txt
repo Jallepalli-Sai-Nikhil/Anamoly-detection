@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 openpyxl  # for reading Excel files
 numpy
+gunicorn
